@@ -50,32 +50,5 @@ Here are some walkthrough gifs to demonstrate key functionalities of the Hospita
 ### Add Patient
 ![add-patiant](https://github.com/PasanAbeysekara/Hospital-Management-System/assets/69195287/5b5e9108-9cac-4043-887a-1ef699909778)
 
-## Getting Started
-
-### Prerequisites
-
-- [.NET Framework SDK](https://dotnet.microsoft.com/download) installed on your machine.
-- Visual Studio or any other compatible IDE.
-
-### Installation
-
-1. Clone the repository:
-
-```shell
-git clone https://github.com/PasanAbeysekara/Hospital-Management-System.git
-```
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, bug fixes, or feature implementations, feel free to open an issue or submit a pull request.
-
-Please make sure to review the [Contributing Guidelines](CONTRIBUTING.md) before making any contributions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or questions, please contact us at [pasankavindaabey@gmail.com](mailto:support@example.com).
-
+Author
+NBA TECH
